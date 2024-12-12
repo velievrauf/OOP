@@ -1,0 +1,2 @@
+C:/Users/Рауф/IvanOOP6/OOP_Labs-main/lab6/include/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Рауф/IvanOOP6/OOP_Labs-main/lab6/include/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
